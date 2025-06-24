@@ -29,7 +29,7 @@ The Placement Management System is a web-based application designed to streamlin
 
 
 🛠 Technologies Used
-💻 Frontend: HTML, CSS, JavaScript
+💻 Frontend: HTML, CSS
 ⚙️ Backend: PHP
 🗄 Database: MySQL
 🐙 Version Control: Git & GitHub
